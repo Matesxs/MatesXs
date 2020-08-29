@@ -20,6 +20,4 @@
 <br/>
 <br/>
 
-:zap: Github Stats
-<br/>
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-ruby-nine.vercel.app/api?username=Matesxs&show_icons=true&hide_border=true" />

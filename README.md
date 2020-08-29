@@ -18,9 +18,6 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <br/>
 <br/>
-<details>
-  <summary>:zap: Github Stats</summary>
-  <br/>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-ruby-nine.vercel.app/api?username=Matesxs&show_icons=true&hide_border=true" />
-
-</details>
+:zap: Github Stats
+<br/>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-ruby-nine.vercel.app/api?username=Matesxs&show_icons=true&hide_border=true" />

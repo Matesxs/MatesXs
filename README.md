@@ -1,4 +1,4 @@
-### Welcome there, I am Martin alias MatesXs
+### Welcome there, I am Martin alias Matesxs
 
 ## I am Student and Developer from Czech Republic
 - :book: I'm student of Faculty of Information Technology on University of Technology in Brno

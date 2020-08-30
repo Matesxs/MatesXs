@@ -33,6 +33,9 @@ Hi, I am Martin alias Matesxs, Student and Developer from Czech Republic
 
 ---
 
+![](https://komarev.com/ghpvc/?username=Matesxs&color=dc143c&style=flat)
+<br />
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->

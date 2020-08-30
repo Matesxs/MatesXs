@@ -38,6 +38,12 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com//Matesxs/GAN-Playground/pull/5) in [Matesxs/GAN-Playground](https://github.com//Matesxs/GAN-Playground)
+2. 💪 Opened PR [#5](https://github.com//Matesxs/GAN-Playground/pull/5) in [Matesxs/GAN-Playground](https://github.com//Matesxs/GAN-Playground)
+3. 🎉 Merged PR [#4](https://github.com//Matesxs/GAN-Playground/pull/4) in [Matesxs/GAN-Playground](https://github.com//Matesxs/GAN-Playground)
+4. 💪 Opened PR [#4](https://github.com//Matesxs/GAN-Playground/pull/4) in [Matesxs/GAN-Playground](https://github.com//Matesxs/GAN-Playground)
+5. 🎉 Merged PR [#3](https://github.com//Matesxs/GAN-Playground/pull/3) in [Matesxs/GAN-Playground](https://github.com//Matesxs/GAN-Playground)
+<!--END_SECTION:activity-->
 
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-ruby-nine.vercel.app/api?username=Matesxs&show_icons=true&hide_border=true" />

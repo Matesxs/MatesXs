@@ -6,7 +6,6 @@
 - 🔭 I'm playing with GANs to get better knowledge how they work
 - 🎮 I'm gamer (Playing almost every good RPG game you could imagine)
 - 🥅 My current goal is to learn more C++
-<br />
 
 ---
 

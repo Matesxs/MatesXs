@@ -7,7 +7,6 @@
 - 🎮 I'm gamer (Playing almost every good RPG game you could imagine)
 - 🥅 My current goal is to learn more C++
 <br />
-<br />
 
 ---
 

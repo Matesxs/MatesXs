@@ -29,6 +29,7 @@ Hi, I am Martin alias Matesxs, Student and Developer from Czech Republic
 <img align="left" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 <br />
+<br />
 
 ---
 

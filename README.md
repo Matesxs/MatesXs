@@ -39,11 +39,11 @@ Hi, I am Martin alias Matesxs, Student and Developer from Czech Republic
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com//Matesxs/GAN-Playground/pull/23) in [Matesxs/GAN-Playground](https://github.com//Matesxs/GAN-Playground)
-2. 💪 Opened PR [#23](https://github.com//Matesxs/GAN-Playground/pull/23) in [Matesxs/GAN-Playground](https://github.com//Matesxs/GAN-Playground)
-3. 🎉 Merged PR [#22](https://github.com//Matesxs/GAN-Playground/pull/22) in [Matesxs/GAN-Playground](https://github.com//Matesxs/GAN-Playground)
-4. 💪 Opened PR [#22](https://github.com//Matesxs/GAN-Playground/pull/22) in [Matesxs/GAN-Playground](https://github.com//Matesxs/GAN-Playground)
-5. 🎉 Merged PR [#21](https://github.com//Matesxs/GAN-Playground/pull/21) in [Matesxs/GAN-Playground](https://github.com//Matesxs/GAN-Playground)
+1. 🎉 Merged PR [#23](https://github.com/Matesxs/GAN-Playground/pull/23) in [Matesxs/GAN-Playground](https://github.com/Matesxs/GAN-Playground)
+2. 💪 Opened PR [#23](https://github.com/Matesxs/GAN-Playground/pull/23) in [Matesxs/GAN-Playground](https://github.com/Matesxs/GAN-Playground)
+3. 🎉 Merged PR [#22](https://github.com/Matesxs/GAN-Playground/pull/22) in [Matesxs/GAN-Playground](https://github.com/Matesxs/GAN-Playground)
+4. 💪 Opened PR [#22](https://github.com/Matesxs/GAN-Playground/pull/22) in [Matesxs/GAN-Playground](https://github.com/Matesxs/GAN-Playground)
+5. 🎉 Merged PR [#21](https://github.com/Matesxs/GAN-Playground/pull/21) in [Matesxs/GAN-Playground](https://github.com/Matesxs/GAN-Playground)
 <!--END_SECTION:activity-->
 
 

@@ -37,11 +37,11 @@ Hi, I am Martin alias Matesxs, Student and Developer from Czech Republic
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#278](https://github.com/Toaster192/rubbergod/pull/278) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
-2. 💪 Opened PR [#17](https://github.com/Absurdponcho/PonchoOS/pull/17) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
-3. 💪 Opened PR [#271](https://github.com/Toaster192/rubbergod/pull/271) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
-4. 💪 Opened PR [#269](https://github.com/Toaster192/rubbergod/pull/269) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
-5. 💪 Opened PR [#13](https://github.com/ondrej-mach/p2test/pull/13) in [ondrej-mach/p2test](https://github.com/ondrej-mach/p2test)
+1. 🎉 Merged PR [#30](https://github.com/Matesxs/GAN-Playground/pull/30) in [Matesxs/GAN-Playground](https://github.com/Matesxs/GAN-Playground)
+2. 🎉 Merged PR [#29](https://github.com/Matesxs/GAN-Playground/pull/29) in [Matesxs/GAN-Playground](https://github.com/Matesxs/GAN-Playground)
+3. 💪 Opened PR [#278](https://github.com/Toaster192/rubbergod/pull/278) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
+4. 💪 Opened PR [#17](https://github.com/Absurdponcho/PonchoOS/pull/17) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
+5. 💪 Opened PR [#271](https://github.com/Toaster192/rubbergod/pull/271) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
 <!--END_SECTION:activity-->
 
 

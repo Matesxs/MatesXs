@@ -37,7 +37,7 @@ Hi, I am Martin alias Matesxs, Student and Developer from Czech Republic
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Matesxs/MatesOS/pull/1) in [Matesxs/MatesOS](https://github.com/Matesxs/MatesOS)
+1. 💪 Opened PR [#301](https://github.com/Toaster192/rubbergod/pull/301) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
 2. 💪 Opened PR [#1](https://github.com/Matesxs/MatesOS/pull/1) in [Matesxs/MatesOS](https://github.com/Matesxs/MatesOS)
 3. 🎉 Merged PR [#30](https://github.com/Matesxs/GAN-Playground/pull/30) in [Matesxs/GAN-Playground](https://github.com/Matesxs/GAN-Playground)
 4. 🎉 Merged PR [#29](https://github.com/Matesxs/GAN-Playground/pull/29) in [Matesxs/GAN-Playground](https://github.com/Matesxs/GAN-Playground)

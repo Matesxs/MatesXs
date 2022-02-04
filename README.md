@@ -44,6 +44,7 @@ Hi, I am Martin alias Matesxs, Student and Developer from Czech Republic
 <!--END_SECTION:activity-->
 
 
-<img align="left" alt="Matesxs's Github Stats" src="https://github-readme-stats-ruby-nine.vercel.app/api?username=Matesxs&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Matesxs&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matesxs&layout=compact&theme=onedark">
 
 [linkedin]: https://www.linkedin.com/in/martin-douša-027570184/

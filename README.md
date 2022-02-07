@@ -36,11 +36,11 @@ Hi, I am Martin alias Matesxs, Student and Developer from Czech Republic
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#334](https://github.com/Toaster192/rubbergod/pull/334) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
-2. 💪 Opened PR [#333](https://github.com/Toaster192/rubbergod/pull/333) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
-3. 💪 Opened PR [#332](https://github.com/Toaster192/rubbergod/pull/332) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
-4. 💪 Opened PR [#331](https://github.com/Toaster192/rubbergod/pull/331) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
-5. 🎉 Merged PR [#1](https://github.com/Matesxs/MatesDiscordBot/pull/1) in [Matesxs/MatesDiscordBot](https://github.com/Matesxs/MatesDiscordBot)
+1. 💪 Opened PR [#337](https://github.com/Toaster192/rubbergod/pull/337) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
+2. 💪 Opened PR [#334](https://github.com/Toaster192/rubbergod/pull/334) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
+3. 💪 Opened PR [#333](https://github.com/Toaster192/rubbergod/pull/333) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
+4. 💪 Opened PR [#332](https://github.com/Toaster192/rubbergod/pull/332) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
+5. 💪 Opened PR [#331](https://github.com/Toaster192/rubbergod/pull/331) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
 <!--END_SECTION:activity-->
 
 

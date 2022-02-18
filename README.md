@@ -36,11 +36,11 @@ Hi, I am Martin alias Matesxs, Student and Developer from Czech Republic
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Matesxs/MatesDiscordBot/pull/3) in [Matesxs/MatesDiscordBot](https://github.com/Matesxs/MatesDiscordBot)
-2. 💪 Opened PR [#3](https://github.com/Matesxs/MatesDiscordBot/pull/3) in [Matesxs/MatesDiscordBot](https://github.com/Matesxs/MatesDiscordBot)
-3. 💪 Opened PR [#339](https://github.com/Toaster192/rubbergod/pull/339) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
-4. 💪 Opened PR [#338](https://github.com/Toaster192/rubbergod/pull/338) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
-5. 🎉 Merged PR [#2](https://github.com/Matesxs/MatesDiscordBot/pull/2) in [Matesxs/MatesDiscordBot](https://github.com/Matesxs/MatesDiscordBot)
+1. 🎉 Merged PR [#4](https://github.com/Matesxs/MatesDiscordBot/pull/4) in [Matesxs/MatesDiscordBot](https://github.com/Matesxs/MatesDiscordBot)
+2. 💪 Opened PR [#4](https://github.com/Matesxs/MatesDiscordBot/pull/4) in [Matesxs/MatesDiscordBot](https://github.com/Matesxs/MatesDiscordBot)
+3. 🎉 Merged PR [#3](https://github.com/Matesxs/MatesDiscordBot/pull/3) in [Matesxs/MatesDiscordBot](https://github.com/Matesxs/MatesDiscordBot)
+4. 💪 Opened PR [#3](https://github.com/Matesxs/MatesDiscordBot/pull/3) in [Matesxs/MatesDiscordBot](https://github.com/Matesxs/MatesDiscordBot)
+5. 💪 Opened PR [#339](https://github.com/Toaster192/rubbergod/pull/339) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
 <!--END_SECTION:activity-->
 
 

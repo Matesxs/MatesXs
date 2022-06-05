@@ -36,11 +36,11 @@ Hi, I am Martin alias Matesxs, Student and Developer from Czech Republic
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/Matesxs/GAN-Playground/pull/35) in [Matesxs/GAN-Playground](https://github.com/Matesxs/GAN-Playground)
-2. 💪 Opened PR [#362](https://github.com/Toaster192/rubbergod/pull/362) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
-3. 💪 Opened PR [#361](https://github.com/Toaster192/rubbergod/pull/361) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
-4. 🎉 Merged PR [#34](https://github.com/Matesxs/GAN-Playground/pull/34) in [Matesxs/GAN-Playground](https://github.com/Matesxs/GAN-Playground)
-5. 💪 Opened PR [#34](https://github.com/Matesxs/GAN-Playground/pull/34) in [Matesxs/GAN-Playground](https://github.com/Matesxs/GAN-Playground)
+1. 💪 Opened PR [#370](https://github.com/Toaster192/rubbergod/pull/370) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
+2. 🎉 Merged PR [#35](https://github.com/Matesxs/GAN-Playground/pull/35) in [Matesxs/GAN-Playground](https://github.com/Matesxs/GAN-Playground)
+3. 💪 Opened PR [#362](https://github.com/Toaster192/rubbergod/pull/362) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
+4. 💪 Opened PR [#361](https://github.com/Toaster192/rubbergod/pull/361) in [Toaster192/rubbergod](https://github.com/Toaster192/rubbergod)
+5. 🎉 Merged PR [#34](https://github.com/Matesxs/GAN-Playground/pull/34) in [Matesxs/GAN-Playground](https://github.com/Matesxs/GAN-Playground)
 <!--END_SECTION:activity-->
 
 

@@ -21,3 +21,5 @@ Hi, I am Martin alias Matesxs, Developer from Czech Republic
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matesxs&layout=compact&theme=onedark">
 
 [linkedin]: https://www.linkedin.com/in/martin-douša-027570184/
+
+[![An image of @matesxs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/matesxs)](https://holopin.io/@matesxs)
